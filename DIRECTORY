@@ -134,11 +134,154 @@
     <!-- ===== MURPHY DIVISION ===== -->
     <h3>Murphy Division</h3>
 
-    <!-- (I will continue generating all 24 team blocks in this exact format) -->
+    <!-- ===== MURPHY DIVISION ===== -->
+<h3>Murphy Division</h3>
 
-</td>
-</tr>
-</table>
+<div class="teamcard">
+    <h4>Crosstown Clydesdales</h4>
+    <p><b>Manager:</b> Mike Cross (Leonna)</p>
+    <p><b>Address:</b> 875 Boros Rd, Southport, NC 28461-9715</p>
+    <p><b>Cell:</b> (765) 730-2017</p>
+    <p><b>Email:</b> mcross@bcswan.net</p>
+</div>
 
-</body>
-</html>
+<div class="teamcard">
+    <h4>New England Elite</h4>
+    <p><b>Manager:</b> Bill Waller (Lori)</p>
+    <p><b>Address:</b> 75 Camire Hill Rd, Barre, VT 05641-4086</p>
+    <p><b>Phone:</b> (802) 249-0188</p>
+    <p><b>Email:</b> Npastime@aol.com</p>
+</div>
+
+<div class="teamcard">
+    <h4>Roadside Hawks</h4>
+    <p><b>Manager:</b> Jack Chalfant (Vicki)</p>
+    <p><b>Address:</b> P.O. Box 71, Farmland, IN 47340</p>
+    <p><b>Phone:</b> (765) 749-2759 &nbsp; | &nbsp; <b>Cell:</b> (717) 465-8024</p>
+    <p><b>Email:</b> jvchalf@gmail.com</p>
+</div>
+
+<div class="teamcard">
+    <h4>Southport Pirates</h4>
+    <p><b>Manager:</b> Bob Chalfant (Susan)</p>
+    <p><b>Address:</b> 898 Boros Rd, Southport, NC 28461-9715</p>
+    <p><b>Phone:</b> (765) 212-9173</p>
+    <p><b>Email:</b> rrchalfant@gmail.com</p>
+</div>
+
+<div class="teamcard">
+    <h4>Tacoma Rainiers</h4>
+    <p><b>Manager:</b> Merle Watkins</p>
+    <p><b>Address:</b> 209 East 18th Ave #20, Ellensburg, WA 98926</p>
+    <p><b>Phone:</b> (509) 899-4480</p>
+    <p><b>Email:</b> mwatkinsapba44@gmail.com</p>
+</div>
+
+<div class="teamcard">
+    <h4>Vermont Woodchucks</h4>
+    <p><b>Manager:</b> Dave Burnham (Kathy)</p>
+    <p><b>Address:</b> 343 Maple Hill Rd, Johnson, VT 05656-9791</p>
+    <p><b>Cell:</b> (802) 696-2513</p>
+    <p><b>Email:</b> bulle54@yahoo.com</p>
+</div>
+<!-- ===== COOPER CONFERENCE ===== -->
+<h2 style="background:#002b5c;color:white;padding:8px;">Cooper Conference</h2>
+
+<h3>Winfield Division</h3>
+
+<div class="teamcard">
+    <h4>Cleveland Hit Men</h4>
+    <p><b>Manager:</b> Al Rapp (Kathy)</p>
+    <p><b>Address:</b> 2470 Hillandale Cir, Cumming, GA 30041-6302</p>
+    <p><b>Cell:</b> (678) 895-7112</p>
+    <p><b>Email:</b> sacfli@aol.com</p>
+</div>
+
+<div class="teamcard">
+    <h4>Frankfort Cardinals</h4>
+    <p><b>Manager:</b> Tim Meador (Julia)</p>
+    <p><b>Address:</b> 1033 Arapaho Trl, Frankfort, KY 40601-1703</p>
+    <p><b>Cell:</b> (502) 330-2989</p>
+    <p><b>Email:</b> trmeador@gmail.com</p>
+</div>
+
+<div class="teamcard">
+    <h4>Sparrow Lake Stallions</h4>
+    <p><b>Manager:</b> Mark Rapp (Jess)</p>
+    <p><b>Address:</b> 1883 Commons Pl, Atlanta, GA 30318-2081</p>
+    <p><b>Cell:</b> (678) 895-7117</p>
+    <p><b>Email:</b> Mark.rapp.1345@gmail.com</p>
+</div>
+
+<div class="teamcard">
+    <h4>New Hudson Nutjobs</h4>
+    <p><b>Manager:</b> Michael Warren (Julie)</p>
+    <p><b>Address:</b> 30085 Orchards Ln, New Hudson, MI 48165-9334</p>
+    <p><b>Phone:</b> (248) 880-2675</p>
+    <p><b>Email:</b> Mwarren0219@hotmail.com</p>
+</div>
+
+<div class="teamcard">
+    <h4>Coastal Bulldogs</h4>
+    <p><b>Manager:</b> Bob Jones (Nancy)</p>
+    <p><b>Address:</b> 725 Emmarts Ct, Wilmington, NC 28409-3918</p>
+    <p><b>Phone:</b> (910) 395-1694 &nbsp; | &nbsp; <b>Cell:</b> (910) 297-9827</p>
+    <p><b>Email:</b> rcjones725@yahoo.com</p>
+</div>
+
+<div class="teamcard">
+    <h4>Creekside Crushers</h4>
+    <p><b>Manager:</b> Dave "Scoop" Mann (Deb)</p>
+    <p><b>Address:</b> 2576 Grandview Park Dr, York, PA 17408-1484</p>
+    <p><b>Cell:</b> (717) 817-9741</p>
+    <p><b>Email:</b> Crkside66@aol.com</p>
+</div>
+<h3>Brett Division</h3>
+
+<div class="teamcard">
+    <h4>East York 66ers</h4>
+    <p><b>Manager:</b> Richard "Mick" Mickley (Sheri)</p>
+    <p><b>Address:</b> 2560 Brighton Dr, York, PA 17402-3923</p>
+    <p><b>Phone:</b> (717) 659-3138</p>
+    <p><b>Email:</b> APBAman@aol.com</p>
+</div>
+
+<div class="teamcard">
+    <h4>Glenville Greys</h4>
+    <p><b>Manager:</b> Bill Kerr (Tracey)</p>
+    <p><b>Address:</b> 7923 Main St, Glenville, PA 17329-8945</p>
+    <p><b>Phone:</b> (717) 744-5299 &nbsp; | &nbsp; <b>Cell:</b> (717) 465-8024</p>
+    <p><b>Email:</b> BKerr54321@aol.com</p>
+</div>
+
+<div class="teamcard">
+    <h4>Keystone Comanches</h4>
+    <p><b>Manager:</b> Jim "JB" Barnes (Beth)</p>
+    <p><b>Address:</b> 803 Chambers Rdg, York, PA 17402-8419</p>
+    <p><b>Phone:</b> (717) 840-1771 &nbsp; | &nbsp; <b>Cell:</b> (717) 309-5250</p>
+    <p><b>Email:</b> jbbarnz@aol.com</p>
+</div>
+
+<div class="teamcard">
+    <h4>Sugar Creek Mud Hoppers</h4>
+    <p><b>Manager:</b> Parris Foxwortthy (Renee)</p>
+    <p><b>Address:</b> 2900 El Camino #194, Las Vegas, NV 89102</p>
+    <p><b>Phone:</b> (702) 289-8561</p>
+    <p><b>Email:</b> twimmd@yahoo.com</p>
+</div>
+
+<div class="teamcard">
+    <h4>York First Capitols</h4>
+    <p><b>Manager:</b> Eric Wolfgang (Sherrie)</p>
+    <p><b>Address:</b> 1801 Northview Rd, York, PA 17406-2452</p>
+    <p><b>Phone:</b> (717) 840-0404</p>
+    <p><b>Email:</b> GBPack01@comcast.net</p>
+</div>
+
+<div class="teamcard">
+    <h4>Gulf Breeze Aardvarks</h4>
+    <p><b>Manager:</b> Rich Pray (Dayna)</p>
+    <p><b>Address:</b> 3300 Raynor Ct, Wilmington, NC 28409-2521</p>
+    <p><b>Cell:</b> (910) 352-0323</p>
+    <p><b>Email:</b> TheComish@bellsouth.net</p>
+</div>
