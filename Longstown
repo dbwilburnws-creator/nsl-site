@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Longstown Prospectors</title>
+    <link rel="stylesheet" href="../assets/css/retro.css">
+</head>
+
+<body>
+
+<table width="100%" height="100%" cellspacing="0" cellpadding="0">
+<tr>
+
+<td width="180" valign="top" class="sidebar">
+    <h3>NSL Menu</h3>
+    <a href="../FRONT.html">Front Page</a><br>
+    <a href="../ABOUT.html">About the NSL</a><br>
+    <a href="../LEAGUE.html">League Information</a><br>
+    <a href="../PHOTOS.html">Photo Gallery</a><br>
+    <a href="../STATS.html">League Stats</a><br>
+    <br>
+
+    <h4>Teams</h4>
+    <a href="team1.html">Albany Wildcats</a><br>
+    <a href="team2.html">Duneland Crusaders</a><br>
+    <a href="team3.html">Grant Park Canids</a><br>
+    <a href="team4.html">Indiana Imperials</a><br>
+    <a href="team5.html">Longstown Prospectors</a><br>
+    <a href="team6.html">Marietta Mad Dogs</a><br>
+</td>
+
+<td valign="top" class="content">
+    <h1>Longstown Prospectors</h1>
+
+    <p><b>Coach:</b> Denny Becker (Shelly)</p>
+    <p><b>Address:</b><br>
+       177 Overview Cir W<br>
+       Red Lion, PA 17356-8905
+    </p>
+    <p><b>Phone:</b> (717) 586-8583</p>
+    <p><b>Email:</b> dbecker830@doubledogwireless.com</p>
+</td>
+
+</tr>
+</table>
+
+</body>
+</html>
