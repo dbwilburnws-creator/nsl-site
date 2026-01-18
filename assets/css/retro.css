@@ -1,20 +1,22 @@
 body {
-    background-color: #99ccff;
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f2f2e9; /* APBA card paper tone */
+    font-family: "Courier New", monospace; /* scorebook feel */
     margin: 0;
     padding: 0;
 }
 
 .sidebar {
-    background-color: #003366;
+    background-color: #002b5c; /* deep baseball navy */
     color: white;
     padding: 15px;
     font-size: 14px;
+    border-right: 4px solid #c8102e; /* baseball red */
 }
 
 .sidebar a {
-    color: #ffcc00;
+    color: #ffcc00; /* scoreboard yellow */
     text-decoration: none;
+    font-weight: bold;
 }
 
 .sidebar a:hover {
@@ -23,14 +25,35 @@ body {
 
 .content {
     background-color: white;
-    padding: 20px;
+    padding: 25px;
+    border-left: 4px solid #002b5c;
 }
 
 h1 {
-    color: #003366;
+    color: #c8102e; /* baseball red */
+    border-bottom: 2px solid #002b5c;
+    padding-bottom: 5px;
 }
 
 h3, h4 {
     margin-top: 0;
     color: #ffcc00;
+}
+
+table.stats {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+
+table.stats th {
+    background-color: #002b5c;
+    color: white;
+    padding: 8px;
+}
+
+table.stats td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    font-family: "Courier New", monospace;
 }
