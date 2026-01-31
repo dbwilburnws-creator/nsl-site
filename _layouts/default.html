@@ -1,21 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="/assets/baseball-theme.css">
+    <meta charset="UTF-8">
+    <title>{% if page.title %}{{ page.title }} | Northern States League{% else %}Northern States League{% endif %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="/nsl-site/assets/baseball-theme.css">
 </head>
-
 <body>
+    {% include navbar.html %}
 
-  {% include header.html %}
+    <main class="content-wrapper">
+        {{ content }}
+    </main>
 
-  <main class="nsl-main">
-    {{ content }}
-  </main>
-
-  {% include footer.html %}
-
+    {% include footer.html %}
 </body>
 </html>
-
