@@ -69,4 +69,15 @@ table.stats td {
     object-position: center;
     filter: brightness(0.9);
 }
+.hero {
+    width: 100%;
+    height: 300px; /* adjust height if you want */
+    overflow: hidden;
+}
+
+.hero-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
 
