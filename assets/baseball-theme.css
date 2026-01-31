@@ -227,4 +227,17 @@ tr:nth-child(even) {
     object-position: center;
     filter: brightness(0.9);
 }
+.top-image-wrapper {
+    width: 100%;
+    max-height: 260px;
+    overflow: hidden;
+}
+
+.top-page-image {
+    width: 100%;
+    display: block;
+    object-fit: cover;
+    object-position: center;
+    filter: brightness(0.9);
+}
 
